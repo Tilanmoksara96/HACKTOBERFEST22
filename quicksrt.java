@@ -1,6 +1,3 @@
-import java.util.*;
-import java.util.io;
-
 class QuickSort  {  
 
 int partition (int a[], int start, int end)  
